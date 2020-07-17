@@ -10,4 +10,4 @@ The imageViewer.py and imageFilters.py must be kept in the same directory.
 ```
 python3 imageViewer.py
 ```
-![Screenshot](https://i.imgur.com/Ou3Uw58.png "Image Editor Preview")
+![eltonPreview](https://user-images.githubusercontent.com/61432155/87740836-2f01b000-c7b1-11ea-97f2-12e0c122ebf2.png)
