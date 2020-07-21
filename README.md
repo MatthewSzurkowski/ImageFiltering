@@ -1,5 +1,6 @@
 # ImageFiltering
-A python GUI program that allows users to add filters to their images.
+A python GUI program that allows users to add filters to images they upload.
+These images can then be downloaded with the filter placed on the image.
 
 # Requirements
 Pillow and tkinter must be installed.
